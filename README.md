@@ -1,0 +1,2 @@
+# Omer-Colakoglu
+ sql dersleri
