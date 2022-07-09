@@ -1,0 +1,9 @@
+Select : Veritanından kayıtları çeker.
+Update : Bir tablodaki kaydın bir yada daha fazla alanını günceller, değiştirir.
+Delete : Bir tablodan kayıt siler.
+Insert Into : Tabloya yeni kayıt ekler.
+Truncate Table : Tablonun içini boşaltır.
+Create Database : Yeni veritabanı oluşturur.
+Alter Database : Bir veritabanının özelliklerini değiştirir.
+Drop Table : Bir tabloyu tamamen siler.
+ 
